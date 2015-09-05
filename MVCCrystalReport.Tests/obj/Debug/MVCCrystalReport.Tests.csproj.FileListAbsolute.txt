@@ -1,0 +1,8 @@
+c:\users\arvind\documents\visual studio 2010\Projects\MVCCrystalReport\MVCCrystalReport.Tests\bin\Debug\MVCCrystalReport.Tests.dll.config
+c:\users\arvind\documents\visual studio 2010\Projects\MVCCrystalReport\MVCCrystalReport.Tests\bin\Debug\MVCCrystalReport.Tests.dll
+c:\users\arvind\documents\visual studio 2010\Projects\MVCCrystalReport\MVCCrystalReport.Tests\bin\Debug\MVCCrystalReport.Tests.pdb
+c:\users\arvind\documents\visual studio 2010\Projects\MVCCrystalReport\MVCCrystalReport.Tests\bin\Debug\MVCCrystalReport.dll
+c:\users\arvind\documents\visual studio 2010\Projects\MVCCrystalReport\MVCCrystalReport.Tests\bin\Debug\MVCCrystalReport.pdb
+c:\users\arvind\documents\visual studio 2010\Projects\MVCCrystalReport\MVCCrystalReport.Tests\obj\Debug\MVCCrystalReport.Tests.csprojResolveAssemblyReference.cache
+c:\users\arvind\documents\visual studio 2010\Projects\MVCCrystalReport\MVCCrystalReport.Tests\obj\Debug\MVCCrystalReport.Tests.dll
+c:\users\arvind\documents\visual studio 2010\Projects\MVCCrystalReport\MVCCrystalReport.Tests\obj\Debug\MVCCrystalReport.Tests.pdb

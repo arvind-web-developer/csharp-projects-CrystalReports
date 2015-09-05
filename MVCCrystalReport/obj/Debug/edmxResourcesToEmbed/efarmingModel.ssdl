@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="efarmingModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="efarmingModelStoreContainer">
+    <EntitySet Name="Investment" EntityType="efarmingModel.Store.Investment" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Investment">
+    <Key>
+      <PropertyRef Name="InvestmentNo" />
+    </Key>
+    <Property Name="InvestmentNo" Type="bigint" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Address" Type="nvarchar" MaxLength="100" />
+    <Property Name="MobileNo" Type="int" />
+    <Property Name="Landline" Type="int" />
+    <Property Name="OtherNo" Type="int" />
+    <Property Name="Email" Type="nvarchar" MaxLength="100" />
+    <Property Name="InvestmentAmount" Type="money" Nullable="false" />
+    <Property Name="InvestmentDate" Type="date" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+    <Property Name="Comment" Type="nvarchar(max)" />
+  </EntityType>
+</Schema>
